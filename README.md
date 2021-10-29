@@ -20,7 +20,7 @@ https://github.com/mdukeshire/README-Generator
 ## Usage
 To help create READMEs for projects
 
-## contributing
+## Contributing
 none
 
 ## Testing
@@ -32,5 +32,5 @@ run generator
   email: mdukeshire07@gmail.com
 
 ## License
-Link to MIT below:
+Link to MIT:
 [MIT](https://opensource.org/licenses/MIT)
